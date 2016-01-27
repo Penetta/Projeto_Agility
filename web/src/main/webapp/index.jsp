@@ -16,7 +16,7 @@
 		QuoteResource quote = new QuoteResource();
 	    String appName =  System.getenv("APP_NAME");
 	    if (appName == null) {
-	    	appName = "Open Insurance ver.3.0 - devops demo";
+	    	appName = "Open Insurance ver.4.0 - devops demo";
 	    }
 	%>
 </head>
