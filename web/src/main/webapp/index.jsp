@@ -16,7 +16,7 @@
 		QuoteResource quote = new QuoteResource();
 	    String appName =  System.getenv("APP_NAME");
 	    if (appName == null) {
-	    	appName = "DEMO TIVIT DEVOPS CI/CD  ver.1.0 - devops Barbosa";
+	    	appName = "DEMO TIVIT DEVOPS CI/CD  ver.1.0 - devops Penetta";
 	    }
 	%>
 </head>
